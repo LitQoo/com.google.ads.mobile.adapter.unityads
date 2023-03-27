@@ -2,7 +2,7 @@
   "name": "com.google.ads.mobile.adapter.unityads",
   "displayName": "Admob.UnityAds",
   "description": "Admob.UnityAds",
-  "version": "3.5.0",
+  "version": "3.6.0",
   "unity": "2017.4",
   "author": {
     "name": "Google LLC",
